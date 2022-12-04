@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewWallis
-- 👀 I’m interested in solving interesting problemsd
+- 👀 I’m interested in solving interesting problems
 - 🌱 I’m currently re-learning python and web tech
 - 💞️ I’m looking to collaborate but don't know what on.
 
